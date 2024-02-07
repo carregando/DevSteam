@@ -11,7 +11,7 @@ export default function GameCard() {
         <h3 className={styles.title}>Counter Strike: Global offensive</h3>
         <p className={styles.category}>Ação, Estratégia, Multijogador.</p>
         <div className={styles.pricing}>
-          <h2 className={styles.price}>R$99,90</h2>
+          <h2 className={styles.price}>R$76,49</h2>
           <Button>Adicionar ao carrinho</Button>
         </div>
       </div>
